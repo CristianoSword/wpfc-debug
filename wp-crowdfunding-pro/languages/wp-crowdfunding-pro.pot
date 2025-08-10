@@ -1,0 +1,998 @@
+# Copyright (C) 2021 WP Crowdfunding Pro
+# This file is distributed under the same license as the WP Crowdfunding Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Crowdfunding Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/Installer.php:36, classes/Installer.php:56
+msgid "Thanks for using WP Crowdfunding Pro"
+msgstr ""
+
+#: classes/Installer.php:37
+msgid "You must have <a href=\"%s\" target=\"_blank\">WP Carowdfunding</a> Free version installed and activated on this website in order to use WP Carowdfunding Pro."
+msgstr ""
+
+#: classes/Installer.php:38
+msgid "Learn more about WP Carowdfunding"
+msgstr ""
+
+#: classes/Installer.php:41
+msgid "Activate WP Crowdfunding"
+msgstr ""
+
+#: classes/Installer.php:57
+msgid "You must have <a href=\"%s\" target=\"_blank\">WP Carowdfunding</a> Free version installed and activated on this website in order to use WP Crowdfunding Pro."
+msgstr ""
+
+#: classes/Installer.php:58
+msgid "Learn more about WP Crowdfunding"
+msgstr ""
+
+#: classes/Installer.php:61
+msgid "Install WP Crowdfunding"
+msgstr ""
+
+#: classes/PayFull.php:25
+msgid "Pay full to Campaign Owner Settings"
+msgstr ""
+
+#: classes/PayFull.php:26
+msgid "Enable or disable ability to Pay 100% fund to campaign owner via PayPal standard Payment"
+msgstr ""
+
+#: classes/PayFull.php:35
+msgid "Send 100% Payment to Campaign Owner (PayPal Standard Only)"
+msgstr ""
+
+#: classes/PayFull.php:36, addons/2checkout/classes/init.php:110, addons/email/classes/wpcf-campaign-accept.php:178, addons/email/classes/wpcf-campaign-accept.php:184, addons/email/classes/wpcf-campaign-accept.php:190, addons/email/classes/wpcf-campaign-submit.php:163, addons/email/classes/wpcf-campaign-submit.php:169, addons/email/classes/wpcf-campaign-submit.php:175, addons/email/classes/wpcf-campaign-update.php:188, addons/email/classes/wpcf-campaign-update.php:194, addons/email/classes/wpcf-new-backed.php:206, addons/email/classes/wpcf-new-backed.php:212, addons/email/classes/wpcf-new-backed.php:218, addons/email/classes/wpcf-new-user.php:158, addons/email/classes/wpcf-new-user.php:164, addons/email/classes/wpcf-new-user.php:170, addons/email/classes/wpcf-target-reached.php:177, addons/email/classes/wpcf-target-reached.php:183, addons/email/classes/wpcf-target-reached.php:189, addons/email/classes/wpcf-withdraw-request.php:169, addons/email/classes/wpcf-withdraw-request.php:175, addons/email/classes/wpcf-withdraw-request.php:181, addons/recaptcha/pages/tab-recaptcha.php:20, addons/recaptcha/pages/tab-recaptcha.php:29, addons/stripe-connect/classes/wpcf-stripe-connect.php:70, addons/wallet/classes/wpcf_gateway_wallet.php:68
+msgid "Enable/Disable"
+msgstr ""
+
+#: addons/2checkout/2checkout.php:17, addons/2checkout/classes/init.php:83
+msgid "2Checkout"
+msgstr ""
+
+#: addons/2checkout/2checkout.php:18
+msgid "Offer 2Checkout.com payment gateway option for all transactions."
+msgstr ""
+
+#: addons/authorizenet/authorizenet.php:18
+msgid "Authorize.Net"
+msgstr ""
+
+#: addons/authorizenet/authorizenet.php:19
+msgid "Provide Authorize.net payment gateway option for users."
+msgstr ""
+
+#: addons/email/email.php:18, addons/email/classes/init.php:128
+msgid "Email"
+msgstr ""
+
+#: addons/email/email.php:19
+msgid "Connect with users through customizable email templates using Email addon."
+msgstr ""
+
+#: addons/recaptcha/recaptcha.php:19, addons/recaptcha/classes/init.php:83
+msgid "reCAPTCHA"
+msgstr ""
+
+#: addons/recaptcha/recaptcha.php:20
+msgid "Secure your site from bots and other identity threats with reCAPTCHA."
+msgstr ""
+
+#: addons/reports/reports.php:18, addons/reports/classes/init.php:45, addons/reports/classes/init.php:45
+msgid "Reports"
+msgstr ""
+
+#: addons/reports/reports.php:19
+msgid "Get detailed analytics & stats using advanced filters with powerful reports."
+msgstr ""
+
+#: addons/stripe-connect/stripe-connect.php:25
+msgid "Stripe connect"
+msgstr ""
+
+#: addons/stripe-connect/stripe-connect.php:26
+msgid "Enable Stripe Connect payment gateways to boost donations of your campaigns."
+msgstr ""
+
+#: addons/wallet/wallet.php:18, addons/wallet/classes/init.php:152
+msgid "Wallet"
+msgstr ""
+
+#: addons/wallet/wallet.php:19
+msgid "Support native payment system for all donations using the native wallet addon."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:84
+msgid "2Checkout - Credit Card/Paypal"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:94
+msgid "Gateway Disabled"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:94
+msgid "2Checkout does not support your store currency."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:112
+msgid "Enable 2Checkout"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:116, addons/stripe-connect/classes/wpcf-stripe-connect.php:83, addons/wallet/classes/wpcf_gateway_wallet.php:75, addons/wallet/classes/wpcf_withdraw_request_table.php:20, addons/wallet/pages/payment_details_by_campaign.php:129
+msgid "Title"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:118
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:119
+msgid "Credit Card/PayPal"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:123, addons/stripe-connect/classes/wpcf-stripe-connect.php:90, addons/wallet/classes/wpcf_gateway_wallet.php:82
+msgid "Description"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:125
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:126
+msgid "Pay with Credit Card/PayPal"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:129
+msgid "Icon URL"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:131
+msgid "This controls the Icon URL which the user sees during checkout."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:136
+msgid "Seller ID"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:138
+msgid "Please enter your 2Checkout account number; this is needed in order to take payment."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:144
+msgid "Publishable Key"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:146
+msgid "Please enter your 2Checkout Publishable Key; this is needed in order to take payment."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:152
+msgid "Private Key"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:154
+msgid "Please enter your 2Checkout Private Key; this is needed in order to take payment."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:160
+msgid "Sandbox/Production"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:162
+msgid "Use 2Checkout Sandbox"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:166
+msgid "Debug Log"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:168
+msgid "Enable logging"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:170
+msgid "Log 2Checkout events"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:210
+msgid "Credit Card number"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:219
+msgid "Expiration date"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:221
+msgid "Month"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:232
+msgid "Year"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:245
+msgid "Card security code"
+msgstr ""
+
+#: addons/2checkout/classes/init.php:247
+msgid "3 or 4 digits usually found on the signature strip."
+msgstr ""
+
+#: addons/2checkout/classes/init.php:401
+msgid "Thank you for your order, please click the button below to pay with PayPal."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:36
+msgid "Get email notification when a campaign accept by the platform owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:180, addons/email/classes/wpcf-campaign-submit.php:165, addons/email/classes/wpcf-campaign-update.php:190, addons/email/classes/wpcf-new-backed.php:208, addons/email/classes/wpcf-new-user.php:160, addons/email/classes/wpcf-target-reached.php:179, addons/email/classes/wpcf-withdraw-request.php:171
+msgid "Enable this email notification"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:186, addons/email/classes/wpcf-campaign-submit.php:171, addons/email/classes/wpcf-campaign-update.php:196, addons/email/classes/wpcf-new-user.php:166, addons/email/classes/wpcf-target-reached.php:185, addons/email/classes/wpcf-withdraw-request.php:177
+msgid "Send Email to Admin"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:192, addons/email/classes/wpcf-campaign-submit.php:177, addons/email/classes/wpcf-campaign-update.php:202, addons/email/classes/wpcf-target-reached.php:191, addons/email/classes/wpcf-withdraw-request.php:183
+msgid "Send Email Notification to Campaign Owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:196, addons/email/classes/wpcf-campaign-submit.php:181, addons/email/classes/wpcf-campaign-update.php:206, addons/email/classes/wpcf-new-backed.php:224, addons/email/classes/wpcf-new-user.php:176, addons/email/classes/wpcf-target-reached.php:195, addons/email/classes/wpcf-withdraw-request.php:187
+msgid "Recipient(s)"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:198, addons/email/classes/wpcf-campaign-submit.php:183, addons/email/classes/wpcf-new-backed.php:226, addons/email/classes/wpcf-new-user.php:178, addons/email/classes/wpcf-target-reached.php:197, addons/email/classes/wpcf-withdraw-request.php:189
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:203, addons/email/classes/wpcf-campaign-submit.php:188, addons/email/classes/wpcf-campaign-update.php:213, addons/email/classes/wpcf-new-backed.php:231, addons/email/classes/wpcf-new-user.php:183, addons/email/classes/wpcf-target-reached.php:202, addons/email/classes/wpcf-withdraw-request.php:194
+msgid "Subject"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:205, addons/email/classes/wpcf-campaign-submit.php:190, addons/email/classes/wpcf-campaign-update.php:215, addons/email/classes/wpcf-new-backed.php:233, addons/email/classes/wpcf-new-user.php:185, addons/email/classes/wpcf-new-user.php:206, addons/email/classes/wpcf-target-reached.php:204
+msgid "This controls the email subject line."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:206, addons/email/classes/wpcf-campaign-accept.php:220
+msgid "WP Crowdfunding You have accepted a campaign"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:210, addons/email/classes/wpcf-campaign-submit.php:195, addons/email/classes/wpcf-withdraw-request.php:201
+msgid "Subject For Campaign Owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:212, addons/email/classes/wpcf-campaign-submit.php:197, addons/email/classes/wpcf-target-reached.php:211
+msgid "This controls the campaign owner notification email subject line."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:213, addons/email/classes/wpcf-campaign-accept.php:227
+msgid "Congratulation, your campaign has been approved"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:217, addons/email/classes/wpcf-campaign-submit.php:202, addons/email/classes/wpcf-campaign-update.php:227, addons/email/classes/wpcf-new-backed.php:245, addons/email/classes/wpcf-new-user.php:190, addons/email/classes/wpcf-target-reached.php:216, addons/email/classes/wpcf-withdraw-request.php:208
+msgid "Email Heading"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:219, addons/email/classes/wpcf-campaign-submit.php:204, addons/email/classes/wpcf-campaign-update.php:229, addons/email/classes/wpcf-new-backed.php:247, addons/email/classes/wpcf-new-user.php:192, addons/email/classes/wpcf-new-user.php:213, addons/email/classes/wpcf-target-reached.php:218, addons/email/classes/wpcf-withdraw-request.php:210
+msgid "This controls the main heading contained within the email notification."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:224, addons/email/classes/wpcf-campaign-submit.php:209, addons/email/classes/wpcf-target-reached.php:223, addons/email/classes/wpcf-withdraw-request.php:215
+msgid "Email Heading for Campaign Owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:226, addons/email/classes/wpcf-campaign-submit.php:211, addons/email/classes/wpcf-target-reached.php:225, addons/email/classes/wpcf-withdraw-request.php:217
+msgid "This controls the main heading contained within the campaign owner email notification."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:231, addons/email/classes/wpcf-campaign-submit.php:216, addons/email/classes/wpcf-campaign-update.php:241, addons/email/classes/wpcf-new-backed.php:259, addons/email/classes/wpcf-new-user.php:197, addons/email/classes/wpcf-target-reached.php:230, addons/email/classes/wpcf-withdraw-request.php:222
+msgid "Email Body"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:233, addons/email/classes/wpcf-campaign-update.php:243, addons/email/classes/wpcf-target-reached.php:232
+msgid "This controls the main email body contained within the email notification. Leave blank to keep it null, <code> Params: ( [user_name], [campaign_title], [campaign_link], [campaign_short_link] ) </code>"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:238, addons/email/classes/wpcf-campaign-submit.php:223, addons/email/classes/wpcf-target-reached.php:237, addons/email/classes/wpcf-withdraw-request.php:229
+msgid "Email Body For Campaign owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-accept.php:240, addons/email/classes/wpcf-target-reached.php:239
+msgid "This controls the main email body contained within the campaign owner email notification. Leave blank to keep it null"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-submit.php:31
+msgid "Get email notification when a campaign submitted by campaign owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-submit.php:191, addons/email/classes/wpcf-campaign-submit.php:205
+msgid "A campaign has been submitted to your platform"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-submit.php:198, addons/email/classes/wpcf-campaign-submit.php:212
+msgid "Congratulation, your campaign has been submitted"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-submit.php:218
+msgid "This controls the main email body contained within the email notification. Leave blank to keep it null, <code> Params: ( [user_name], [campaign_title] ) </code>"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-submit.php:225
+msgid "This controls the main email body contained within the campaign owner email notification. Leave blank to keep it null, <code> Params: ( [user_name], [campaign_title] ) </code>"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:31
+msgid "Get email notification when a campaign is updated"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:216, addons/email/classes/wpcf-campaign-update.php:223
+msgid "WP Crowdfunding Campaign [campaign_title] got update"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:220
+msgid "Subject for All Bakcers"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:222
+msgid "This controls the campaign backers notification email subject line"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:230, addons/email/classes/wpcf-campaign-update.php:237
+msgid "Campaign [campaign_title] got update"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:234
+msgid "Email Heading for All Bakcers"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:236
+msgid "This controls the main heading contained within the campaign backers email notification."
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:248
+msgid "Email Body for All Backers"
+msgstr ""
+
+#: addons/email/classes/wpcf-campaign-update.php:250
+msgid "This controls the main email body contained within the campaign backers email notification. Leave blank to keep it null"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:214
+msgid "Notify to Campaign Owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:220
+msgid "Notify to backer"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:234, addons/email/classes/wpcf-new-backed.php:248
+msgid "WP Crowdfunding (A new backed has been placed)"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:238
+msgid "Subject For Backer"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:240
+msgid "This controls the backer notification email subject line."
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:241, addons/email/classes/wpcf-new-backed.php:255
+msgid "Thank you for your donation"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:252
+msgid "Email Backer Heading"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:254
+msgid "This controls the main heading contained within the backer email notification."
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:261
+msgid "This controls the main email body contained within the email notification. Leave blank to keep it null, <code> Params: ( [user_name], [site_title], [total_amount], [campaign_title], [order_number], [order_date], [reward_details] ) </code>"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:266
+msgid "Email Body For backer"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-backed.php:268
+msgid "This controls the main email body contained within the backer email notification. Leave blank to keep it null"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:172
+msgid "Send Email Greetings To User"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:186
+msgid "WP Crowdfunding New User Registration"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:193
+msgid "WP Crowdfunding New User Registration [user_name]"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:199, addons/email/classes/wpcf-new-user.php:220
+msgid "This controls the main email body contained within the email notification. Leave blank to keep it null"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:204
+msgid "Subject for User"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:207
+msgid "Thank you for registration"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:211
+msgid "Email Heading for User"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:214
+msgid "Thank you for registration [user_name]"
+msgstr ""
+
+#: addons/email/classes/wpcf-new-user.php:218
+msgid "Email Body for User"
+msgstr ""
+
+#: addons/email/classes/wpcf-target-reached.php:35
+msgid "Get email notification when a campaign target is reached"
+msgstr ""
+
+#: addons/email/classes/wpcf-target-reached.php:205, addons/email/classes/wpcf-target-reached.php:212, addons/email/classes/wpcf-target-reached.php:219, addons/email/classes/wpcf-target-reached.php:226
+msgid "Campaign [campaign_title] Target is Reached"
+msgstr ""
+
+#: addons/email/classes/wpcf-target-reached.php:209
+msgid "Subject for Campaign Owner"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:31
+msgid "Get email notification when a campaign owner request for withdraw"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:196
+msgid "This controls the email subject line. Params: { [user_name], [request_title], [campaign_title], [withdrawal_amount], [withdraw_message] }"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:197, addons/email/classes/wpcf-withdraw-request.php:211
+msgid "A withdrawal request is received from your platform"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:203
+msgid "This controls the campaign owner notification email subject line. Params: { [user_name], [request_title], [campaign_title], [withdrawal_amount], [withdraw_message] }"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:204, addons/email/classes/wpcf-withdraw-request.php:218
+msgid "Congratulation, your withdrawal request has been submitted"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:224
+msgid "This controls the main email body contained within the email notification. Leave blank to keep it null | Params: { [user_name], [request_title], [campaign_title], [withdrawal_amount], [withdraw_message] }"
+msgstr ""
+
+#: addons/email/classes/wpcf-withdraw-request.php:231
+msgid "This controls the main email body contained within the campaign owner email notification. Leave blank to keep it null | Params: { [user_name], [request_title], [campaign_title], [withdrawal_amount], [withdraw_message] }"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:12
+msgid "SMTP Settings"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:21
+msgid "Enable SMTP"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:22
+msgid "Enable SMTP for WP Crowdfunding Plugin"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:30
+msgid "SMTP Host"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:31
+msgid "Define the SMTP host."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:39
+msgid "SMTP Port"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:40
+msgid "Enter  the SMTP port."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:53
+msgid "Encryption Type"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:54
+msgid "Select the email encryption type."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:62
+msgid "SMTP Username"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:63
+msgid "Your SMTP account username."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:72
+msgid "SMTP Password"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:73
+msgid "Your SMTP account password."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:82
+msgid "From Name"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:83
+msgid "Set the email sender name."
+msgstr ""
+
+#: addons/email/pages/tab-email.php:91
+msgid "From Address"
+msgstr ""
+
+#: addons/email/pages/tab-email.php:92
+msgid "Set the email sender email."
+msgstr ""
+
+#: addons/recaptcha/classes/init.php:140
+msgid "Error with reCAPTCHA, please check again"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:9
+msgid "reCAPTCHA Settings"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:10
+msgid "You may enable reCAPTCHA to prevent spamming"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:19
+msgid "Enable reCAPTCHA on user registration page"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:28
+msgid "Enable reCAPTCHA on campaign submit page"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:37
+msgid "Site key / Public Key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:38
+msgid "Put your Google reCAPTCHA Public key here. <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">Visit this link</a> to generate one."
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:46
+msgid "Secret Key"
+msgstr ""
+
+#: addons/recaptcha/pages/tab-recaptcha.php:47
+msgid "Put your Google reCAPTCHA Secret key here. <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">Visit this link</a> to generate one."
+msgstr ""
+
+#: addons/reports/classes/init.php:71
+msgid "Sales Report"
+msgstr ""
+
+#: addons/reports/classes/init.php:76
+msgid "Top Campaigns"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:180, addons/reports/pages/reports-by-campaign.php:76
+msgid "Last 7 days"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:181, addons/reports/pages/reports-by-campaign.php:77
+msgid "This Month"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:182, addons/reports/pages/reports-by-campaign.php:78
+msgid "Last Month"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:183, addons/reports/pages/reports-by-campaign.php:79
+msgid "Last 6 Months"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:184, addons/reports/pages/reports-by-campaign.php:80
+msgid "This Year"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:185, addons/reports/pages/reports-by-campaign.php:81
+msgid "Last Year"
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:198
+msgid "Total Campaigns : "
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:199
+msgid "Total Backed : "
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:200
+msgid "Total Backed Amount : "
+msgstr ""
+
+#: addons/reports/pages/reports-area-chart.php:216
+msgid "Total Sales & Total Pledged Amount Report"
+msgstr ""
+
+#: addons/reports/pages/reports-by-campaign.php:190
+msgid "No products found"
+msgstr ""
+
+#: addons/stripe-connect/classes/init.php:107
+msgid "Connect with Stripe"
+msgstr ""
+
+#: addons/stripe-connect/classes/init.php:104
+msgid "Connected"
+msgstr ""
+
+#: addons/stripe-connect/classes/init.php:105
+msgid "Disconnect"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:63, addons/stripe-connect/classes/wpcf-stripe-connect.php:64
+msgid "Enable Stripe Connect Payment"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:72
+msgid "Enable Stripe Test Mode"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:76
+msgid "Receivers percent"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:79
+msgid "Campaign owner will get this percent, rest amount will credited stripe owner account as application fee"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:86
+msgid "Title will see user during checkout as payment method"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:93
+msgid "This description will see user during checkout"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:97
+msgid "Stripe Connect Test Client ID"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:99, addons/stripe-connect/classes/wpcf-stripe-connect.php:106
+msgid "Get your client ID from stripe app settings"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:104
+msgid "Stripe Connect Live Client ID"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:111
+msgid "Live Secret Key"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:113, addons/stripe-connect/classes/wpcf-stripe-connect.php:120, addons/stripe-connect/classes/wpcf-stripe-connect.php:127, addons/stripe-connect/classes/wpcf-stripe-connect.php:134
+msgid "Get your API keys from your stripe account."
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:118
+msgid "Live Publishable Key"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:125
+msgid "Test Secret Key"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:132
+msgid "Test Publishable Key"
+msgstr ""
+
+#: addons/stripe-connect/classes/wpcf-stripe-connect.php:139
+msgid "Stripe Checkout Image"
+msgstr ""
+
+#: addons/wallet/classes/init.php:108
+msgid "Payments"
+msgstr ""
+
+#: addons/wallet/classes/init.php:117, addons/wallet/classes/init.php:118, addons/wallet/pages/payment_details_by_campaign.php:229, addons/wallet/pages/payment_details_by_campaign.php:235, addons/wallet/pages/payment_details_by_campaign.php:241, addons/wallet/pages/payment_details_by_campaign.php:269
+msgid "Withdraw"
+msgstr ""
+
+#: addons/wallet/classes/init.php:133
+msgid "Withdraw Request"
+msgstr ""
+
+#: addons/wallet/classes/init.php:352
+msgid "Withdraw request"
+msgstr ""
+
+#: addons/wallet/classes/init.php:370
+msgid "Your withdraw request is processing."
+msgstr ""
+
+#: addons/wallet/classes/init.php:373
+msgid "You are not eligible to make a withdraw."
+msgstr ""
+
+#: addons/wallet/classes/init.php:585, addons/wallet/pages/payment_details_by_campaign.php:176, addons/wallet/pages/payment_details_by_campaign.php:201
+msgid "Balance"
+msgstr ""
+
+#: addons/wallet/classes/init.php:589, addons/wallet/classes/wpcf_gateway_wallet.php:33
+msgid "Current Balance"
+msgstr ""
+
+#: addons/wallet/classes/init.php:597
+msgid "Deposit Amount"
+msgstr ""
+
+#: addons/wallet/classes/init.php:603
+msgid "Add Balance"
+msgstr ""
+
+#: addons/wallet/classes/init.php:614, addons/wallet/pages/backed_campaign.php:37, addons/wallet/pages/deposits.php:37
+msgid "Deposits"
+msgstr ""
+
+#: addons/wallet/classes/init.php:619
+msgid "Backed Campaign"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:51, addons/wallet/classes/wpcf_gateway_wallet.php:78
+msgid "WP Crowdfunding Wallet"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:52
+msgid "Pay using your WP Crowdfunding wallet balance"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:69
+msgid "Enable WP Crowdfunding Wallet"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:77
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:84
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:85, addons/wallet/classes/wpcf_gateway_wallet.php:92
+msgid "Pay using your WP Crowdfunding wallet balance."
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:89
+msgid "Instructions"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_gateway_wallet.php:91
+msgid "Instructions that will be added to the thank you page."
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:19
+msgid "ID"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:21
+msgid "User"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:22, addons/wallet/pages/backed_campaign.php:38, addons/wallet/pages/deposits.php:38, addons/wallet/pages/payment_details_by_campaign.php:130, addons/wallet/pages/payment_details_by_campaign.php:256
+msgid "Amount"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:24
+msgid "Fund Raised (%)"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:25
+msgid "Fund Goal"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:26
+msgid "Campaign Type"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:27, addons/wallet/pages/all_campaigns.php:98
+msgid "Action"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:129
+msgid "Sorry, no withdraw request found."
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:86
+msgid "Campaign Never End"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:85
+msgid "Target Goal and Date"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:84
+msgid "Target Date"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:83
+msgid "Target Goal"
+msgstr ""
+
+#: addons/wallet/classes/wpcf_withdraw_request_table.php:91, addons/wallet/pages/payment_details_by_campaign.php:264
+msgid "Message"
+msgstr ""
+
+#: addons/wallet/pages/all_campaigns.php:138, addons/wallet/pages/backed_campaign.php:67, addons/wallet/pages/deposits.php:68
+msgid "There is no campaign data"
+msgstr ""
+
+#: addons/wallet/pages/all_campaigns.php:95
+msgid "Campaign Name"
+msgstr ""
+
+#: addons/wallet/pages/all_campaigns.php:96
+msgid "Raised(Percentage)"
+msgstr ""
+
+#: addons/wallet/pages/all_campaigns.php:97
+msgid "Receivable(Commision)"
+msgstr ""
+
+#: addons/wallet/pages/all_campaigns.php:128
+msgid "View details"
+msgstr ""
+
+#: addons/wallet/pages/backed_campaign.php:39, addons/wallet/pages/deposits.php:39, addons/wallet/pages/payment_details_by_campaign.php:131
+msgid "Status"
+msgstr ""
+
+#: addons/wallet/pages/backed_campaign.php:40, addons/wallet/pages/deposits.php:40
+msgid "Payment Method"
+msgstr ""
+
+#: addons/wallet/pages/backed_campaign.php:41, addons/wallet/pages/deposits.php:41
+msgid "Date"
+msgstr ""
+
+#: addons/wallet/pages/backed_campaign.php:55, addons/wallet/pages/deposits.php:56
+msgid "ago"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:86
+msgid "Goal"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:91
+msgid "Funding"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:96
+msgid "Raised(%)"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:101, addons/wallet/pages/payment_details_by_campaign.php:163
+msgid "Receivable"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:106
+msgid "Commission"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:168, addons/wallet/pages/payment_details_by_campaign.php:192
+msgid "Total Withdraw"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:186
+msgid "Total Commission"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:285
+msgid "Your current balance is below then tha minimum withdraw amount"
+msgstr ""
+
+#: addons/wallet/pages/payment_details_by_campaign.php:252
+msgid "Withdraw Info"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:10
+msgid "Wallet Settings"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:11
+msgid "Enable Wallet to split campaign earning between campaign owner and you"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:17
+msgid "Withdraw type"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:19
+msgid "Anytime"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:20
+msgid "After a certain period of time"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:21
+msgid "After project completion"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:22
+msgid "This withdraw type determines when a user a can request a withdrawal"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:34
+msgid "Withdraw will be applicable after this percent campaign raised amount"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:42
+msgid "Receiver percent"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:46
+msgid "Put the percentage amount you want the campaign owner to have and the rest will go to your account"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:54
+msgid "Minimum withdraw amount"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:58
+msgid "The user will not be able to make withdraw request unless his balance exceeds this amount"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:65
+msgid "Withdraw Methods"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:81
+msgid "Deposit Money"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:82
+msgid "Allow backers / users to deposit their money to donate later from their wallet balance"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:90
+msgid "Enable Wallet Deposit"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:95
+msgid "This will allow you to enable money deposit feature to wallet"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:103
+msgid "Wallet Deposit Checkout Product"
+msgstr ""
+
+#: addons/wallet/pages/tab-wallet.php:111
+msgid "Select a product"
+msgstr ""
